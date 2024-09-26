@@ -1,0 +1,1 @@
+window.shapes_vhpym59xu3 = function() { return {};}
